@@ -25,7 +25,7 @@ Before running the exporter, ensure you have the following installed:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/prometheus-network-metrics-exporter.git
+[git clone https://github.com/yourusername/prometheus-network-metrics-exporter.git]
 cd prometheus-network-metrics-exporter
 ```
 
